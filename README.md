@@ -5,9 +5,13 @@ This repository showcases our SMA Crossover Trading Strategy, enhanced with Boll
 
 📌 Key Features:
 ✅ SMA Crossover System: Trades based on short (5-period) & long (20-period) moving averages.
+
 ✅ Bollinger Bands Integration: Identifies volatility zones for better trade execution.
+
 ✅ Risk Management: Includes a 1.5% stop-loss for controlled downside risk.
+
 ✅ Backtesting & Performance Evaluation: Uses real market data to assess profitability.
+
 ✅ Comprehensive Visualization: Plots trade entries/exits, Bollinger Bands, and return distributions.
 
 📈 Why This Matters?
